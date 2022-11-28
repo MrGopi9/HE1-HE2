@@ -7,6 +7,12 @@ int clearBit(int data,int bit);
 int complimentBit(int data,int bit);
 
 
+
+
+
+
+
+
 void printBinary(int d)
 {
 	int b;
